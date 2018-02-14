@@ -9,9 +9,10 @@ An android application that enables the user to practice from a set of questions
 - Verbal Critical Reasoning
 - Verbal Sentence Correction
 <br>
-** Screenshots **
 
-<img src="https://user-images.githubusercontent.com/20863182/36216355-91d77a38-11d4-11e8-97cd-84e903da6e42.png" width="900" width="1100">
+## Screenshots
+
+<img src="https://user-images.githubusercontent.com/20863182/36216899-11f163a4-11d6-11e8-9561-72ea87316e42.png" >
 
 ## Features
 
