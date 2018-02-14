@@ -18,19 +18,22 @@ An android application that enables the user to practice from a set of questions
 
 - Completely offline
 - Progress Tracking
-- Search
+- Group Searches on the basis of :
   - Topics
-    - A
-    - B
-    - C
+    - Quant Problem Solving
+    - Quant Data Sufficiency
+    - Verbal Reading Comprehension
+    - Verbal Critical Reasoning
+    - Verbal Sentence Correction
   - Flagged
   - Incorrect
   - Correct
+  - Unattempted
   - Keyword
 - Doubts section (For viewing previously flagged questions with marked response and explanations)
 - Timer (starts automatically and stops on submit button-press)
 - Analytics
-- Notepad in each question
+- Notepad in each question 
 
 ## Mockups
 
@@ -39,8 +42,8 @@ An android application that enables the user to practice from a set of questions
 
 ## Contributing
 
-* Knowledge of JAVA
-* Some experience in developing Android apps (Hello-World App)
+* If you found a  bug or want to request any new feature, open an [issue](https://github.com/utkarshmttl/eModules/graphs/contributors) here.
+
 
 ## Authors
 
