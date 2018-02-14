@@ -1,8 +1,17 @@
-<img src="https://user-images.githubusercontent.com/20863182/36215111-2f9418fc-11d1-11e8-9375-9f3af5bd9954.png" align="right" height="300" width="300"/>
+<img src="https://user-images.githubusercontent.com/20863182/36215111-2f9418fc-11d1-11e8-9375-9f3af5bd9954.png" align="right" height="200" width="200"/>
 
-# eModules 
+# eModules
 
-This android application enables the user to practice from a set of questions and includes features such as progress tracking, analytics, flagging (doubts), timer and search (on the basis of filters like topic, previously incorrect, keyword etc).
+An android application that enables the user to practice from a set of questions based on :
+- Quant Problem Solving
+- Quant Data Sufficiency
+- Verbal Reading Comprehension
+- Verbal Critical Reasoning
+- Verbal Sentence Correction
+<br>
+** Screenshots **
+
+<img src="https://user-images.githubusercontent.com/20863182/36216355-91d77a38-11d4-11e8-97cd-84e903da6e42.png" width="900" width="1100">
 
 ## Features
 
