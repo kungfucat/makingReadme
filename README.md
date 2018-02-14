@@ -1,10 +1,8 @@
-<img src="https://cdnd.icons8.com/wp-content/uploads/2015/06/android_vector.jpg" align="right" width="300"/>
+<img src="https://user-images.githubusercontent.com/20863182/36215111-2f9418fc-11d1-11e8-9375-9f3af5bd9954.png" align="right" height="300" width="300"/>
 
 # eModules 
 
 This android application enables the user to practice from a set of questions and includes features such as progress tracking, analytics, flagging (doubts), timer and search (on the basis of filters like topic, previously incorrect, keyword etc).
-
-> The questions are served from a pre-packaged sqlite ```.db``` file which would be stored in the assets folder of the project, [android-sqlite-asset-helper](https://github.com/jgilfelt/android-sqlite-asset-helper) library will be used for shipping the app with pre-populated databse.
 
 ## Features
 
