@@ -8,7 +8,6 @@ An android application that enables the user to practice from a set of questions
 - Verbal Reading Comprehension
 - Verbal Critical Reasoning
 - Verbal Sentence Correction
-<br>
 
 ## Screenshots
 
