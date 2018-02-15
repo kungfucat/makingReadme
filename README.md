@@ -9,9 +9,13 @@ An android application that enables the user to practice from a set of questions
 - Verbal Critical Reasoning
 - Verbal Sentence Correction
 
+<br>
+
 ## Screenshots
 
 <img src="https://user-images.githubusercontent.com/20863182/36216899-11f163a4-11d6-11e8-9561-72ea87316e42.png" >
+
+<br>
 
 ## Features
 
@@ -33,6 +37,8 @@ An android application that enables the user to practice from a set of questions
 - Timer (starts automatically and stops on submit button-press)
 - Analytics
 - Notepad in each question 
+
+<br>
 
 ## Mockups
 
@@ -57,15 +63,17 @@ An android application that enables the user to practice from a set of questions
 
 - 🔃 Create a new pull request using <a href="https://github.com/utkarshmttl/eModules/compare" target="_blank">`https://github.com/utkarshmttl/eModules/compare`</a>.
 
----
+<br>
 
 ## Bug or Feature?
-* If you found a  bug or want to request any new feature, open an [issue](https://github.com/utkarshmttl/eModules/issues).
+* If you find a  bug or want a new feature, open an [issue](https://github.com/utkarshmttl/eModules/issues).
 
+<br>
 
 ## Authors
 
 <a href="http://ducic.ac.in/"><img src="https://user-images.githubusercontent.com/16596327/30467922-9d4985ce-9a05-11e7-81aa-9f5348eb40de.png" align="right" width="300"/></a>
+
 
 * **[Utkarsh Mittal](https://github.com/utkarshmttl)** - *utkarshmttl@gmail.com*
 
