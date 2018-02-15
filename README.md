@@ -42,7 +42,7 @@ An android application that enables the user to practice from a set of questions
 
 ## Contributing
 
-* If you found a  bug or want to request any new feature, open an [issue](https://github.com/utkarshmttl/eModules/graphs/contributors) here.
+* If you found a  bug or want to request any new feature, open an [issue](https://github.com/utkarshmttl/eModules/graphs/contributors).
 
 
 ## Authors
