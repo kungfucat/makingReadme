@@ -41,7 +41,26 @@ An android application that enables the user to practice from a set of questions
 
 ## Contributing
 
-* If you found a  bug or want to request any new feature, open an [issue](https://github.com/utkarshmttl/eModules/graphs/contributors).
+> To get started...
+
+- **Option 1**
+    - 🍴 Fork this repo!
+
+- **Option 2**
+    - 👯 Clone this repo to your local machine using `git clone https://github.com/utkarshmttl/eModules.git`
+
+### Step 2
+
+- **HACK AWAY!** 🔨🔨🔨
+
+### Step 3
+
+- 🔃 Create a new pull request using <a href="https://github.com/utkarshmttl/eModules/compare" target="_blank">`https://github.com/utkarshmttl/eModules/compare`</a>.
+
+---
+
+## Bug or Feature?
+* If you found a  bug or want to request any new feature, open an [issue](https://github.com/utkarshmttl/eModules/issues).
 
 
 ## Authors
