@@ -2,12 +2,7 @@
 
 # eModules
 
-An android application that enables the user to practice from a set of questions based on :
-- Quant Problem Solving
-- Quant Data Sufficiency
-- Verbal Reading Comprehension
-- Verbal Critical Reasoning
-- Verbal Sentence Correction
+An android application that enables the user to practice from a set of questions, flag them and view analytics.
 
 <br>
 
@@ -23,11 +18,6 @@ An android application that enables the user to practice from a set of questions
 - Progress Tracking
 - Group Searches on the basis of :
   - Topics
-    - Quant Problem Solving
-    - Quant Data Sufficiency
-    - Verbal Reading Comprehension
-    - Verbal Critical Reasoning
-    - Verbal Sentence Correction
   - Flagged
   - Incorrect
   - Correct
@@ -42,7 +32,7 @@ An android application that enables the user to practice from a set of questions
 
 ## Mockups
 
-<img src="./Mockups/Mockup1.png"/> <img src="./Mockups/Mockup2.png"/> 
+<img src="https://raw.githubusercontent.com/utkarshmttl/eModules/master/Mockups/Mockup1.png"/> <img src="https://raw.githubusercontent.com/utkarshmttl/eModules/master/Mockups/Mockup2.png"/> 
 <br><br>
 
 ## Contributing
