@@ -52,7 +52,7 @@ An android application that enables the user to practice from a set of questions
 |time_txt | TEXT | | |Time taken by user to answer in text format (NULL if unattempted)|
 |flagged | INT | | |Whether user flagged it, marked as doubt (0/1)|
 
-\* => TEXT is in HTML format and includes images in base64 format. So used webview to render this html content.
+>\* => TEXT is in HTML format and includes images in base64 format. So used webview to render this html content.
 
 ### Sample row
 |ID|query|solution|correct|topic|notes|marked|time_txt|flagged|
@@ -62,6 +62,9 @@ An android application that enables the user to practice from a set of questions
 
 Sample rendered HTML can be found [here](https://codepen.io/utkarshmttl/full/vdKZwo/).
 
+>This db is placed in assets/databases and [android-sqlite-asset-helper](https://github.com/jgilfelt/android-sqlite-asset-helper) library is used for shipping the app with pre-populated database. 
+
+<br>
 
 ## Contributing
 
