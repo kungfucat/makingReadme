@@ -106,7 +106,7 @@ Sample rendered HTML can be found [here](https://codepen.io/utkarshmttl/full/vdK
 
 * #### Primary Developer : Harsh Bhardwaj ([kungfucat](https://github.com/kungfucat))
 
-<br>
+<br><br>
 
 >This app was developed as a part of the [CMoC](https://github.com/clusterinnovationcentre/CMoC) program, mentored by [Utkarsh Mittal](https://github.com/utkarshmttl) and primarily developed by [Harsh Bhardwaj](https://github.com/kungfucat).
 
