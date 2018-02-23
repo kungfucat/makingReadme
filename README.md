@@ -4,6 +4,10 @@
 
 An android application that enables the user to practice from a set of questions, flag them and analyse his performance.
 
+<br>
+
+>Demo of the app can be seen [here](http://kungfucat.me/images/portfolio/full/emodules.mp4).
+
 <br><br>
 
 ## Screenshots
@@ -71,17 +75,18 @@ Sample rendered HTML can be found [here](https://codepen.io/utkarshmttl/full/vdK
 > To get started...
 
 ### Step 1
-- **Option 1**
-    - 🍴 Fork this repo!
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine using `git clone https://github.com/utkarshmttl/eModules.git`
+- 🍴 Fork this repo!
 
 ### Step 2
 
-- **HACK AWAY!** 🔨🔨🔨
+- 👯 Clone this repo to your local machine.
 
 ### Step 3
+
+- **HACK AWAY!** 🔨🔨🔨
+
+### Step 4
 
 - 🔃 Create a new pull request using <a href="https://github.com/utkarshmttl/eModules/compare" target="_blank">`https://github.com/utkarshmttl/eModules/compare`</a>.
 
@@ -99,7 +104,9 @@ Sample rendered HTML can be found [here](https://codepen.io/utkarshmttl/full/vdK
 
 * **[Utkarsh Mittal](https://github.com/utkarshmttl)** - *utkarshmttl@gmail.com*
 
-### Primary Developer : Harsh Bhardwaj ([kungfucat](https://github.com/kungfucat))
+* #### Primary Developer : Harsh Bhardwaj ([kungfucat](https://github.com/kungfucat))
+
+<br>
 
 >This app was developed as a part of the [CMoC](https://github.com/clusterinnovationcentre/CMoC) program, mentored by [Utkarsh Mittal](https://github.com/utkarshmttl) and primarily developed by [Harsh Bhardwaj](https://github.com/kungfucat).
 
